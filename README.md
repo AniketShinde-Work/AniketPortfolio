@@ -1,18 +1,7 @@
-# Roy's Dev Portfolio
-
-## Table of Contents
-
-- [Roy's Dev Portfolio](#roys-dev-portfolio)
-  - [Table of Contents](#table-of-contents)
-  - [Links](#links)
-  - [Reference](#reference)
-
+# Aniket Dev Portfolio
 
 ## Links
-- [View Live: roywannago.com](https://roywannago.com)
-- [Link to this repo](https://github.com/falinwang/portfolio)
-
-
+- [Link to this repo](https://github.com/AniketShinde-Work/AniketPortfolio)
 
 ## Reference
 
