@@ -1,4 +1,4 @@
-# Aniket Dev Portfolio
+# Aniket Shinde Portfolio
 
 ## Links
 - [Link to this repo](https://github.com/AniketShinde-Work/AniketPortfolio)
